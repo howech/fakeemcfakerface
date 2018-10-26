@@ -1,0 +1,25 @@
+{
+  "name": "fakeemcfakerface",
+  "version": "1.0.0",
+  "description": "Fake package",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howech/fakeemcfakerface.git"
+  },
+  "keywords": [
+    "Fakee",
+    "McFaker",
+    "Face"
+  ],
+  "author": "howech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/howech/fakeemcfakerface/issues"
+  },
+  "homepage": "https://github.com/howech/fakeemcfakerface#readme"
+}
